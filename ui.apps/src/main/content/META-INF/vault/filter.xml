@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/aem-workshop/clientlibs"/>
+    <filter root="/apps/aem-workshop/components"/>
+    <filter root="/apps/aem-workshop/i18n"/>
+    <filter root="/apps/sling" />
+    <filter root="/apps/msm/aem-workshop_blueprint" mode="merge"/>
+</workspaceFilter>
