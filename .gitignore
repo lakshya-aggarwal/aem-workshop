@@ -79,7 +79,7 @@ buildNumber.properties
 ### IntelliJ ###
 .idea/
 *.iml
-
+.repo
 
 ### Node.js ###
 
